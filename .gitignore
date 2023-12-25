@@ -161,3 +161,6 @@ cython_debug/
 
 #text files
 *.txt
+test*
+*.vscode
+*.DS_Store
